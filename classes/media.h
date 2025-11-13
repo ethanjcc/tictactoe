@@ -4,3 +4,4 @@ class media {
   int year;
   media(char[], int);
 };
+char
